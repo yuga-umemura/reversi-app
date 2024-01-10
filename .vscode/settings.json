@@ -1,0 +1,4 @@
+{
+  "hediet.vscode-drawio.theme": "Kennedy",
+  "editor.codeActionsOnSave": ["source.addMissingImports"]
+}
